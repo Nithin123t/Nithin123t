@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thimmareddy Nithin Reddy
 
-🎓 Final-year B.Tech Student at **SRM University** (Artificial Intelligence)  
+🎓 B.Tech Student at **SRM University** (Artificial Intelligence)  
 📍 Based in Chennai, India  
 📧 nithinreddythimmareddy18@gmail.com | 📞 +91 87903 64548  
 🔗 [LinkedIn](https://www.linkedin.com/in/nithin-reddy-5a7aaa238) | [Portfolio](https://portfolio-mu-three-l6srk6hhn5.vercel.app/) | [GitHub](https://github.com/Nithin123t)
